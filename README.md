@@ -1,6 +1,6 @@
 # Robust Reinforcement Learning via Adversarial training with Langevin Dynamics
 
-This is the implementations of the paper Robust Reinforcement Learning via Adversarial training with Langevin Dynamics [https://arxiv.org/abs/2002.06063]. We demonstrate the effectiveness of using the MixedNE-LD framework to solve the robust RL problems by two kinds of settings, on-policy (VPG) and off-policy experiments.
+This is the implementations of the paper Robust Reinforcement Learning via Adversarial training with Langevin Dynamics [https://arxiv.org/abs/2002.06063]. We demonstrate the effectiveness of using the MixedNE-LD framework to solve the robust RL problems by two kinds of settings, on-policy (VPG) and off-policy (DDPG) experiments.
 
 ## Table of Contents
 - [simple_env](#simple_env) 
