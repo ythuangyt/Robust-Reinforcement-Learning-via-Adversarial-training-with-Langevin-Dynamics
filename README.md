@@ -5,13 +5,13 @@ This is the implementations of the paper Robust Reinforcement Learning via Adver
 ## Table of Contents
 - [simple_env](#simple_env) 
 - [mujoco_env](#mujoco_env) 
-- [How to train](#how to train) 
+- [How to train](#how-to-train) 
 
-## simple_env: On-Policy (VPG) Experiments
+## simple_env: on-policy experiments
 Create your own environemt by following create_simple_env folders.
 
-## mujoco_env: Off-Policy (DDPG) Experiments
-### Requirements:
+## mujoco_env: off-policy experiments
+#### Requirements:
 * [MuJoCo](http://mujoco.org)
 * Python 3 (it might work with Python 2, not tested)
 * [PyTorch](http://pytorch.org/)
